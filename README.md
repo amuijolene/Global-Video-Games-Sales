@@ -1,18 +1,5 @@
 # Global-Video-Games-Sales-Analysis
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Dataset Breakdown](dataset-breakdown)
-- [Tools](tools)
-- [Data Cleaning/Preparation](data-cleaning/preparation)
-- [Data Analysis](data-analysis)
-- [Exploratory Data Analysis](exploratory-data-analysis)
-- [Key Findings](key-findings)
-- [Recommendations](recommendations)
-- [Limitations](limitations)
-
-
 ## Project Overview
 
 This project analyzes sales data from video games, exploring trends, regional preferences, and publisher strategies. By examining the complex relationships between game sales, genres, platforms, and publishers, this analysis provides valuable insights for industry stakeholders seeking to navigate the dynamic video game market.
